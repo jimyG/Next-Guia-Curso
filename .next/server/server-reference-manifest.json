@@ -1,1 +1,46 @@
-{"node":{"4092a50d73cfa26489a15e29e5192510329b921240":{"workers":{"app/dashboard/invoices/page":{"moduleId":"40770","async":false},"app/dashboard/invoices/[id]/edit/page":{"moduleId":"13852","async":false},"app/dashboard/invoices/create/page":{"moduleId":"13852","async":false}},"layer":{"app/dashboard/invoices/page":"rsc","app/dashboard/invoices/[id]/edit/page":"action-browser","app/dashboard/invoices/create/page":"action-browser"}},"60264f5bf838746d891973d6c96a643d69ae71a9a0":{"workers":{"app/dashboard/invoices/page":{"moduleId":"40770","async":false},"app/dashboard/invoices/[id]/edit/page":{"moduleId":"13852","async":false},"app/dashboard/invoices/create/page":{"moduleId":"13852","async":false}},"layer":{"app/dashboard/invoices/page":"rsc","app/dashboard/invoices/[id]/edit/page":"action-browser","app/dashboard/invoices/create/page":"action-browser"}},"6068cc6aab8632cffa529ed73a188db1b0b8de2f39":{"workers":{"app/dashboard/invoices/page":{"moduleId":"40770","async":false},"app/dashboard/invoices/[id]/edit/page":{"moduleId":"13852","async":false},"app/dashboard/invoices/create/page":{"moduleId":"13852","async":false}},"layer":{"app/dashboard/invoices/page":"rsc","app/dashboard/invoices/[id]/edit/page":"action-browser","app/dashboard/invoices/create/page":"action-browser"}},"70fb0d45ab2bf7fd61dd0699ec91db5263e2d85066":{"workers":{"app/dashboard/invoices/page":{"moduleId":"40770","async":false},"app/dashboard/invoices/[id]/edit/page":{"moduleId":"13852","async":false},"app/dashboard/invoices/create/page":{"moduleId":"13852","async":false}},"layer":{"app/dashboard/invoices/page":"rsc","app/dashboard/invoices/[id]/edit/page":"action-browser","app/dashboard/invoices/create/page":"action-browser"}}},"edge":{},"encryptionKey":"wtYP/mxUx0Sd/YjBT3qVJ10kRozyk3xgwLhJXgBspBw="}
+{
+  "node": {
+    "1ddefc88f79a39f5eda45f9652c2a809c39dbc51": {
+      "workers": {
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/.pnpm/next@15.0.0_react-dom@18.2.0_react@18.2.0__react@18.2.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5Cxampp%5C%5Chtdocs%5C%5CnextEdgarguiacurso%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%5D&encryptionKey=wtYP%2FmxUx0Sd%2FYjBT3qVJ10kRozyk3xgwLhJXgBspBw%3D&__client_imported__=!",
+        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/.pnpm/next@15.0.0_react-dom@18.2.0_react@18.2.0__react@18.2.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5Cxampp%5C%5Chtdocs%5C%5CnextEdgarguiacurso%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%5D&encryptionKey=wtYP%2FmxUx0Sd%2FYjBT3qVJ10kRozyk3xgwLhJXgBspBw%3D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/invoices/page": "rsc",
+        "app/dashboard/invoices/create/page": "action-browser"
+      }
+    },
+    "46e18d9feff5f75389a4077ab891b329f7680ba3": {
+      "workers": {
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/.pnpm/next@15.0.0_react-dom@18.2.0_react@18.2.0__react@18.2.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5Cxampp%5C%5Chtdocs%5C%5CnextEdgarguiacurso%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%5D&encryptionKey=wtYP%2FmxUx0Sd%2FYjBT3qVJ10kRozyk3xgwLhJXgBspBw%3D&__client_imported__=!",
+        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/.pnpm/next@15.0.0_react-dom@18.2.0_react@18.2.0__react@18.2.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5Cxampp%5C%5Chtdocs%5C%5CnextEdgarguiacurso%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%5D&encryptionKey=wtYP%2FmxUx0Sd%2FYjBT3qVJ10kRozyk3xgwLhJXgBspBw%3D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/invoices/page": "rsc",
+        "app/dashboard/invoices/create/page": "action-browser"
+      }
+    },
+    "c7063f1c12321fc6176fa8d249fb78ea3d354720": {
+      "workers": {
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/.pnpm/next@15.0.0_react-dom@18.2.0_react@18.2.0__react@18.2.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5Cxampp%5C%5Chtdocs%5C%5CnextEdgarguiacurso%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%5D&encryptionKey=wtYP%2FmxUx0Sd%2FYjBT3qVJ10kRozyk3xgwLhJXgBspBw%3D&__client_imported__=!",
+        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/.pnpm/next@15.0.0_react-dom@18.2.0_react@18.2.0__react@18.2.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5Cxampp%5C%5Chtdocs%5C%5CnextEdgarguiacurso%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%5D&encryptionKey=wtYP%2FmxUx0Sd%2FYjBT3qVJ10kRozyk3xgwLhJXgBspBw%3D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/invoices/page": "rsc",
+        "app/dashboard/invoices/create/page": "action-browser"
+      }
+    },
+    "d999edf6150a90ac6f10015a5ea8f1c4dc344b38": {
+      "workers": {
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/.pnpm/next@15.0.0_react-dom@18.2.0_react@18.2.0__react@18.2.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5Cxampp%5C%5Chtdocs%5C%5CnextEdgarguiacurso%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%5D&encryptionKey=wtYP%2FmxUx0Sd%2FYjBT3qVJ10kRozyk3xgwLhJXgBspBw%3D&__client_imported__=!",
+        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/.pnpm/next@15.0.0_react-dom@18.2.0_react@18.2.0__react@18.2.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5Cxampp%5C%5Chtdocs%5C%5CnextEdgarguiacurso%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%5D&encryptionKey=wtYP%2FmxUx0Sd%2FYjBT3qVJ10kRozyk3xgwLhJXgBspBw%3D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/invoices/page": "rsc",
+        "app/dashboard/invoices/create/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "wtYP/mxUx0Sd/YjBT3qVJ10kRozyk3xgwLhJXgBspBw="
+}
