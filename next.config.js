@@ -6,4 +6,7 @@ module.exports = {
     config.resolve.alias['@'] = path.join(__dirname, '/');
     return config;
   },
+  experimental: {
+    serverActions: true,  // Habilitar Server Actions
+  },
 };
